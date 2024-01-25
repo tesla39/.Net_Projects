@@ -1,0 +1,15 @@
+C:\Users\Nawraj\source\repos\unit5-b\bin\Debug\net7.0\unit5-b.exe
+C:\Users\Nawraj\source\repos\unit5-b\bin\Debug\net7.0\unit5-b.deps.json
+C:\Users\Nawraj\source\repos\unit5-b\bin\Debug\net7.0\unit5-b.runtimeconfig.json
+C:\Users\Nawraj\source\repos\unit5-b\bin\Debug\net7.0\unit5-b.dll
+C:\Users\Nawraj\source\repos\unit5-b\bin\Debug\net7.0\unit5-b.pdb
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.vbproj.AssemblyReference.cache
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.AssemblyInfoInputs.cache
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.AssemblyInfo.vb
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.vbproj.CoreCompileInputs.cache
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.dll
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\refint\unit5-b.dll
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.pdb
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\unit5-b.genruntimeconfig.cache
+C:\Users\Nawraj\source\repos\unit5-b\obj\Debug\net7.0\ref\unit5-b.dll

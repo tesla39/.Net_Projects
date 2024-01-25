@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "assignmen 7(volume of cuboid)/1.0.0": {
+        "runtime": {
+          "assignmen 7(volume of cuboid).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignmen 7(volume of cuboid)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

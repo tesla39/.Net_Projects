@@ -1,0 +1,17 @@
+D:\source\classes\bin\Debug\net7.0-windows\classes.exe
+D:\source\classes\bin\Debug\net7.0-windows\classes.deps.json
+D:\source\classes\bin\Debug\net7.0-windows\classes.runtimeconfig.json
+D:\source\classes\bin\Debug\net7.0-windows\classes.dll
+D:\source\classes\bin\Debug\net7.0-windows\classes.pdb
+D:\source\classes\obj\Debug\net7.0-windows\classes.vbproj.AssemblyReference.cache
+D:\source\classes\obj\Debug\net7.0-windows\classes.Form1.resources
+D:\source\classes\obj\Debug\net7.0-windows\classes.vbproj.GenerateResource.cache
+D:\source\classes\obj\Debug\net7.0-windows\classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\classes\obj\Debug\net7.0-windows\classes.AssemblyInfoInputs.cache
+D:\source\classes\obj\Debug\net7.0-windows\classes.AssemblyInfo.vb
+D:\source\classes\obj\Debug\net7.0-windows\classes.vbproj.CoreCompileInputs.cache
+D:\source\classes\obj\Debug\net7.0-windows\classes.dll
+D:\source\classes\obj\Debug\net7.0-windows\refint\classes.dll
+D:\source\classes\obj\Debug\net7.0-windows\classes.pdb
+D:\source\classes\obj\Debug\net7.0-windows\classes.genruntimeconfig.cache
+D:\source\classes\obj\Debug\net7.0-windows\ref\classes.dll

@@ -1,0 +1,29 @@
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\bin\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).exe
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\bin\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).deps.json
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\bin\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).runtimeconfig.json
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\bin\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).dll
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\bin\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).pdb
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).vbproj.AssemblyReference.cache
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9____conversion_of_nrs_to_dollar_.Form1.resources
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).vbproj.GenerateResource.cache
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).AssemblyInfoInputs.cache
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).AssemblyInfo.vb
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).vbproj.CoreCompileInputs.cache
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).dll
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\refint\assignment9 (  conversion of nrs to dollar).dll
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).pdb
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).genruntimeconfig.cache
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\ref\assignment9 (  conversion of nrs to dollar).dll
+C:\Users\Nawraj\source\repos\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9____conversion_of_nrs_to_dollar_.Form2.resources
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).vbproj.AssemblyReference.cache
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9____conversion_of_nrs_to_dollar_.Form1.resources
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9____conversion_of_nrs_to_dollar_.Form2.resources
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).vbproj.GenerateResource.cache
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).AssemblyInfoInputs.cache
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).AssemblyInfo.vb
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).vbproj.CoreCompileInputs.cache
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).dll
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\refint\assignment9 (  conversion of nrs to dollar).dll
+C:\Users\Nawraj\source\repos\windows mode\assignment9 (  conversion of nrs to dollar)\obj\Debug\net6.0-windows\assignment9 (  conversion of nrs to dollar).pdb

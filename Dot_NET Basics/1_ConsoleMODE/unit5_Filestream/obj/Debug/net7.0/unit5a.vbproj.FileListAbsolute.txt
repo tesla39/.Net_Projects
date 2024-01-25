@@ -1,0 +1,15 @@
+D:\source\unit5a\bin\Debug\net7.0\unit5a.exe
+D:\source\unit5a\bin\Debug\net7.0\unit5a.deps.json
+D:\source\unit5a\bin\Debug\net7.0\unit5a.runtimeconfig.json
+D:\source\unit5a\bin\Debug\net7.0\unit5a.dll
+D:\source\unit5a\bin\Debug\net7.0\unit5a.pdb
+D:\source\unit5a\obj\Debug\net7.0\unit5a.vbproj.AssemblyReference.cache
+D:\source\unit5a\obj\Debug\net7.0\unit5a.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\unit5a\obj\Debug\net7.0\unit5a.AssemblyInfoInputs.cache
+D:\source\unit5a\obj\Debug\net7.0\unit5a.AssemblyInfo.vb
+D:\source\unit5a\obj\Debug\net7.0\unit5a.vbproj.CoreCompileInputs.cache
+D:\source\unit5a\obj\Debug\net7.0\unit5a.dll
+D:\source\unit5a\obj\Debug\net7.0\refint\unit5a.dll
+D:\source\unit5a\obj\Debug\net7.0\unit5a.pdb
+D:\source\unit5a\obj\Debug\net7.0\unit5a.genruntimeconfig.cache
+D:\source\unit5a\obj\Debug\net7.0\ref\unit5a.dll

@@ -1,0 +1,14 @@
+D:\source\unit6\bin\Debug\bishal.mdb
+D:\source\unit6\bin\Debug\unit6.exe.config
+D:\source\unit6\bin\Debug\unit6.exe
+D:\source\unit6\bin\Debug\unit6.pdb
+D:\source\unit6\bin\Debug\unit6.xml
+D:\source\unit6\obj\Debug\unit6.vbproj.AssemblyReference.cache
+D:\source\unit6\obj\Debug\unit6.vbproj.SuggestedBindingRedirects.cache
+D:\source\unit6\obj\Debug\unit6.Form1.resources
+D:\source\unit6\obj\Debug\unit6.Resources.resources
+D:\source\unit6\obj\Debug\unit6.vbproj.GenerateResource.cache
+D:\source\unit6\obj\Debug\unit6.vbproj.CoreCompileInputs.cache
+D:\source\unit6\obj\Debug\unit6.exe
+D:\source\unit6\obj\Debug\unit6.xml
+D:\source\unit6\obj\Debug\unit6.pdb

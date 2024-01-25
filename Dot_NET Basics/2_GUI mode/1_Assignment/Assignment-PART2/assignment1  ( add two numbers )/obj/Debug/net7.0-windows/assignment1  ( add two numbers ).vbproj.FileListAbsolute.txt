@@ -1,0 +1,55 @@
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).exe
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).deps.json
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).runtimeconfig.json
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).pdb
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1____add_two_numbers__.Form1.resources
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).AssemblyInfo.vb
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\refint\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).pdb
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).genruntimeconfig.cache
+C:\Users\MAHESH\source\repos\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\ref\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).exe
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).deps.json
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).runtimeconfig.json
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).pdb
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1____add_two_numbers__.Form1.resources
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).AssemblyInfo.vb
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\refint\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).pdb
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).genruntimeconfig.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\ref\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).exe
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).deps.json
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).runtimeconfig.json
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\bin\Debug\net7.0-windows\assignment1  ( add two numbers ).pdb
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1____add_two_numbers__.Form1.resources
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).AssemblyInfo.vb
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\refint\assignment1  ( add two numbers ).dll
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).pdb
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).genruntimeconfig.cache
+C:\Users\MAHESH\source\repos\repos\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\ref\assignment1  ( add two numbers ).dll
+D:\source\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).vbproj.AssemblyReference.cache
+D:\source\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).dll
+D:\source\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\refint\assignment1  ( add two numbers ).dll
+D:\source\windows mode\assignment1  ( add two numbers )\obj\Debug\net7.0-windows\assignment1  ( add two numbers ).pdb

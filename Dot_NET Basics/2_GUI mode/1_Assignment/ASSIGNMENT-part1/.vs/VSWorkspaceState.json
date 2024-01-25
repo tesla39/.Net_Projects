@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net7.0-windows",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net7.0-windows",
+    "\\obj\\Debug\\net7.0-windows\\ref",
+    "\\obj\\Debug\\net7.0-windows\\refint"
+  ],
+  "SelectedNode": "\\palindrome_number.vb",
+  "PreviewInSolutionExplorer": false
+}

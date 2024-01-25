@@ -1,0 +1,26 @@
+C:\Users\MAHESH\source\repos\menu editor\bin\Debug\menu editor.exe.config
+C:\Users\MAHESH\source\repos\menu editor\bin\Debug\menu editor.exe
+C:\Users\MAHESH\source\repos\menu editor\bin\Debug\menu editor.pdb
+C:\Users\MAHESH\source\repos\menu editor\bin\Debug\menu editor.xml
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu editor.vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu editor.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu_editor.Resources.resources
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu editor.vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu editor.vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu editor.exe
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu editor.xml
+C:\Users\MAHESH\source\repos\menu editor\obj\Debug\menu editor.pdb
+D:\source\.net\menu editor\bin\Debug\menu editor.exe.config
+D:\source\.net\menu editor\bin\Debug\menu editor.exe
+D:\source\.net\menu editor\bin\Debug\menu editor.pdb
+D:\source\.net\menu editor\bin\Debug\menu editor.xml
+D:\source\.net\menu editor\obj\Debug\menu editor.vbproj.AssemblyReference.cache
+D:\source\.net\menu editor\obj\Debug\menu editor.vbproj.SuggestedBindingRedirects.cache
+D:\source\.net\menu editor\obj\Debug\menu_editor.Resources.resources
+D:\source\.net\menu editor\obj\Debug\menu editor.vbproj.GenerateResource.cache
+D:\source\.net\menu editor\obj\Debug\menu editor.vbproj.CoreCompileInputs.cache
+D:\source\.net\menu editor\obj\Debug\menu editor.exe
+D:\source\.net\menu editor\obj\Debug\menu editor.xml
+D:\source\.net\menu editor\obj\Debug\menu editor.pdb
+D:\source\.net\menu editor\obj\Debug\menu_editor.Form1.resources
+D:\source\.net\menu editor\obj\Debug\menu_editor.Form2.resources

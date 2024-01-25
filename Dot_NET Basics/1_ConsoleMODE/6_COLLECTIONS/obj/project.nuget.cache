@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUuJchhPMYokhq4oxlE23sdv/kF1HC8QkJXpSCgc9Z8ke4q8scHovHCvGXc3RwccZ0ENl5TZqBc/MHNSz4J7nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nawaraj\\Downloads\\Compressed\\source-20240125T114804Z-001\\source\\source\\COLLECTIONS\\COLLECTIONS.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nawaraj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Nawaraj\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

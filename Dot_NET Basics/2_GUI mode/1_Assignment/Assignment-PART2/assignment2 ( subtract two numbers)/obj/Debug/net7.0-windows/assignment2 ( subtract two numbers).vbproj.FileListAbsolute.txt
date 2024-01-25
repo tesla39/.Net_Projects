@@ -1,0 +1,34 @@
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).exe
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).deps.json
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).runtimeconfig.json
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).dll
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).pdb
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2___subtract_two_numbers_.Form1.resources
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).AssemblyInfo.vb
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).dll
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\refint\assignment2 ( subtract two numbers).dll
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).pdb
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).genruntimeconfig.cache
+C:\Users\MAHESH\source\repos\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\ref\assignment2 ( subtract two numbers).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).exe
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).deps.json
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).runtimeconfig.json
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\bin\Debug\net7.0-windows\assignment2 ( subtract two numbers).pdb
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2___subtract_two_numbers_.Form1.resources
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).AssemblyInfo.vb
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\refint\assignment2 ( subtract two numbers).dll
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).pdb
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\assignment2 ( subtract two numbers).genruntimeconfig.cache
+C:\Users\MAHESH\source\repos\windows mode\assignment2 ( subtract two numbers)\obj\Debug\net7.0-windows\ref\assignment2 ( subtract two numbers).dll

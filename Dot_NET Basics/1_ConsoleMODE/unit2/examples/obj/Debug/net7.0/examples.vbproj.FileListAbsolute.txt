@@ -1,0 +1,15 @@
+D:\source\examples\bin\Debug\net7.0\examples.exe
+D:\source\examples\bin\Debug\net7.0\examples.deps.json
+D:\source\examples\bin\Debug\net7.0\examples.runtimeconfig.json
+D:\source\examples\bin\Debug\net7.0\examples.dll
+D:\source\examples\bin\Debug\net7.0\examples.pdb
+D:\source\examples\obj\Debug\net7.0\examples.vbproj.AssemblyReference.cache
+D:\source\examples\obj\Debug\net7.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\examples\obj\Debug\net7.0\examples.AssemblyInfoInputs.cache
+D:\source\examples\obj\Debug\net7.0\examples.AssemblyInfo.vb
+D:\source\examples\obj\Debug\net7.0\examples.vbproj.CoreCompileInputs.cache
+D:\source\examples\obj\Debug\net7.0\examples.dll
+D:\source\examples\obj\Debug\net7.0\refint\examples.dll
+D:\source\examples\obj\Debug\net7.0\examples.pdb
+D:\source\examples\obj\Debug\net7.0\examples.genruntimeconfig.cache
+D:\source\examples\obj\Debug\net7.0\ref\examples.dll

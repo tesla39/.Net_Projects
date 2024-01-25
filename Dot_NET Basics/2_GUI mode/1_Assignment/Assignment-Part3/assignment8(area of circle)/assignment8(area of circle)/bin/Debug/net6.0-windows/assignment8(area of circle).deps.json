@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "assignment8(area of circle)/1.0.0": {
+        "runtime": {
+          "assignment8(area of circle).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignment8(area of circle)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

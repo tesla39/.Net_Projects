@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iMS/7fVdHe5c3kzqIpnFJ/Qa0dBwLsF1sK5URvPo8tBTKh2HaW39c1OJe17Zyu+FJBwonDxEWXGMpJkyuTN/KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nawaraj\\Downloads\\Compressed\\source-20240125T114804Z-001\\source\\source\\.net - Copy\\CALCULATOR1\\CALCULATOR.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nawaraj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Nawaraj\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

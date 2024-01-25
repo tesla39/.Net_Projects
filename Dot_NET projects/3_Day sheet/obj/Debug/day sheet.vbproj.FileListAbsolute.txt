@@ -1,0 +1,13 @@
+C:\Users\MAHESH\source\repos\day sheet\bin\Debug\day sheet.exe.config
+C:\Users\MAHESH\source\repos\day sheet\bin\Debug\day sheet.exe
+C:\Users\MAHESH\source\repos\day sheet\bin\Debug\day sheet.pdb
+C:\Users\MAHESH\source\repos\day sheet\bin\Debug\day sheet.xml
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day sheet.vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day sheet.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day_sheet.Form1.resources
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day_sheet.Resources.resources
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day sheet.vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day sheet.vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day sheet.exe
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day sheet.xml
+C:\Users\MAHESH\source\repos\day sheet\obj\Debug\day sheet.pdb

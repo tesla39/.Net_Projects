@@ -1,0 +1,17 @@
+D:\source\timer\bin\Debug\net7.0-windows\timer.exe
+D:\source\timer\bin\Debug\net7.0-windows\timer.deps.json
+D:\source\timer\bin\Debug\net7.0-windows\timer.runtimeconfig.json
+D:\source\timer\bin\Debug\net7.0-windows\timer.dll
+D:\source\timer\bin\Debug\net7.0-windows\timer.pdb
+D:\source\timer\obj\Debug\net7.0-windows\timer.vbproj.AssemblyReference.cache
+D:\source\timer\obj\Debug\net7.0-windows\timer.Form1.resources
+D:\source\timer\obj\Debug\net7.0-windows\timer.vbproj.GenerateResource.cache
+D:\source\timer\obj\Debug\net7.0-windows\timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\timer\obj\Debug\net7.0-windows\timer.AssemblyInfoInputs.cache
+D:\source\timer\obj\Debug\net7.0-windows\timer.AssemblyInfo.vb
+D:\source\timer\obj\Debug\net7.0-windows\timer.vbproj.CoreCompileInputs.cache
+D:\source\timer\obj\Debug\net7.0-windows\timer.dll
+D:\source\timer\obj\Debug\net7.0-windows\refint\timer.dll
+D:\source\timer\obj\Debug\net7.0-windows\timer.pdb
+D:\source\timer\obj\Debug\net7.0-windows\timer.genruntimeconfig.cache
+D:\source\timer\obj\Debug\net7.0-windows\ref\timer.dll

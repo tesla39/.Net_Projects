@@ -1,0 +1,15 @@
+C:\Users\Nawraj\source\repos\unit-5c\bin\Debug\net7.0\unit-5c.exe
+C:\Users\Nawraj\source\repos\unit-5c\bin\Debug\net7.0\unit-5c.deps.json
+C:\Users\Nawraj\source\repos\unit-5c\bin\Debug\net7.0\unit-5c.runtimeconfig.json
+C:\Users\Nawraj\source\repos\unit-5c\bin\Debug\net7.0\unit-5c.dll
+C:\Users\Nawraj\source\repos\unit-5c\bin\Debug\net7.0\unit-5c.pdb
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.vbproj.AssemblyReference.cache
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.AssemblyInfoInputs.cache
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.AssemblyInfo.vb
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.vbproj.CoreCompileInputs.cache
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.dll
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\refint\unit-5c.dll
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.pdb
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\unit-5c.genruntimeconfig.cache
+C:\Users\Nawraj\source\repos\unit-5c\obj\Debug\net7.0\ref\unit-5c.dll

@@ -1,0 +1,17 @@
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\bin\Debug\net7.0-windows\assignment3(  division of two numbers).exe
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\bin\Debug\net7.0-windows\assignment3(  division of two numbers).deps.json
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\bin\Debug\net7.0-windows\assignment3(  division of two numbers).runtimeconfig.json
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\bin\Debug\net7.0-windows\assignment3(  division of two numbers).dll
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\bin\Debug\net7.0-windows\assignment3(  division of two numbers).pdb
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3___division_of_two_numbers_.Form1.resources
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).AssemblyInfo.vb
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).dll
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\refint\assignment3(  division of two numbers).dll
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).pdb
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\assignment3(  division of two numbers).genruntimeconfig.cache
+C:\Users\MAHESH\source\repos\assignment3(  division of two numbers)\obj\Debug\net7.0-windows\ref\assignment3(  division of two numbers).dll

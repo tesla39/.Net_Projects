@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ctype_conversion</RootNamespace>
+    <TargetFramework>net7.0</TargetFramework>
+    <StartupObject>ctype_conversion.ctype_conversion.Dialog1</StartupObject>
+  </PropertyGroup>
+
+</Project>

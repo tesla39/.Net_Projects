@@ -1,0 +1,17 @@
+D:\source\string\bin\Debug\net7.0-windows\string.exe
+D:\source\string\bin\Debug\net7.0-windows\string.deps.json
+D:\source\string\bin\Debug\net7.0-windows\string.runtimeconfig.json
+D:\source\string\bin\Debug\net7.0-windows\string.dll
+D:\source\string\bin\Debug\net7.0-windows\string.pdb
+D:\source\string\obj\Debug\net7.0-windows\string.vbproj.AssemblyReference.cache
+D:\source\string\obj\Debug\net7.0-windows\string.Form1.resources
+D:\source\string\obj\Debug\net7.0-windows\string.vbproj.GenerateResource.cache
+D:\source\string\obj\Debug\net7.0-windows\string.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\string\obj\Debug\net7.0-windows\string.AssemblyInfoInputs.cache
+D:\source\string\obj\Debug\net7.0-windows\string.AssemblyInfo.vb
+D:\source\string\obj\Debug\net7.0-windows\string.vbproj.CoreCompileInputs.cache
+D:\source\string\obj\Debug\net7.0-windows\string.dll
+D:\source\string\obj\Debug\net7.0-windows\refint\string.dll
+D:\source\string\obj\Debug\net7.0-windows\string.pdb
+D:\source\string\obj\Debug\net7.0-windows\string.genruntimeconfig.cache
+D:\source\string\obj\Debug\net7.0-windows\ref\string.dll

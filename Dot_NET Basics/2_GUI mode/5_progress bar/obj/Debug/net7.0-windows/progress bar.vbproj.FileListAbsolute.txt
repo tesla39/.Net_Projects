@@ -1,0 +1,34 @@
+D:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.exe
+D:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.deps.json
+D:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.runtimeconfig.json
+D:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.dll
+D:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.pdb
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.vbproj.AssemblyReference.cache
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress_bar.Form1.resources
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.vbproj.GenerateResource.cache
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.AssemblyInfoInputs.cache
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.AssemblyInfo.vb
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.vbproj.CoreCompileInputs.cache
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.dll
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\refint\progress bar.dll
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.pdb
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.genruntimeconfig.cache
+D:\source\repos\progress bar\obj\Debug\net7.0-windows\ref\progress bar.dll
+E:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.exe
+E:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.deps.json
+E:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.runtimeconfig.json
+E:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.dll
+E:\source\repos\progress bar\bin\Debug\net7.0-windows\progress bar.pdb
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.vbproj.AssemblyReference.cache
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress_bar.Form1.resources
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.vbproj.GenerateResource.cache
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.AssemblyInfoInputs.cache
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.AssemblyInfo.vb
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.vbproj.CoreCompileInputs.cache
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.dll
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\refint\progress bar.dll
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.pdb
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\progress bar.genruntimeconfig.cache
+E:\source\repos\progress bar\obj\Debug\net7.0-windows\ref\progress bar.dll

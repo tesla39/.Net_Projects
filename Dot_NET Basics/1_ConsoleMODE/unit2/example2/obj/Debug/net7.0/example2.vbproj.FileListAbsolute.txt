@@ -1,0 +1,15 @@
+D:\source\example2\bin\Debug\net7.0\example2.exe
+D:\source\example2\bin\Debug\net7.0\example2.deps.json
+D:\source\example2\bin\Debug\net7.0\example2.runtimeconfig.json
+D:\source\example2\bin\Debug\net7.0\example2.dll
+D:\source\example2\bin\Debug\net7.0\example2.pdb
+D:\source\example2\obj\Debug\net7.0\example2.vbproj.AssemblyReference.cache
+D:\source\example2\obj\Debug\net7.0\example2.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\example2\obj\Debug\net7.0\example2.AssemblyInfoInputs.cache
+D:\source\example2\obj\Debug\net7.0\example2.AssemblyInfo.vb
+D:\source\example2\obj\Debug\net7.0\example2.vbproj.CoreCompileInputs.cache
+D:\source\example2\obj\Debug\net7.0\example2.dll
+D:\source\example2\obj\Debug\net7.0\refint\example2.dll
+D:\source\example2\obj\Debug\net7.0\example2.pdb
+D:\source\example2\obj\Debug\net7.0\example2.genruntimeconfig.cache
+D:\source\example2\obj\Debug\net7.0\ref\example2.dll

@@ -1,0 +1,18 @@
+C:\Users\Nawraj\source\repos\media player\bin\Debug\media player.exe.config
+C:\Users\Nawraj\source\repos\media player\bin\Debug\media player.exe
+C:\Users\Nawraj\source\repos\media player\bin\Debug\media player.pdb
+C:\Users\Nawraj\source\repos\media player\bin\Debug\media player.xml
+C:\Users\Nawraj\source\repos\media player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nawraj\source\repos\media player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.vbproj.AssemblyReference.cache
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Nawraj\source\repos\media player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nawraj\source\repos\media player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.vbproj.ResolveComReference.cache
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media_player.Form1.resources
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media_player.Resources.resources
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.vbproj.GenerateResource.cache
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.vbproj.CoreCompileInputs.cache
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.exe
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.xml
+C:\Users\Nawraj\source\repos\media player\obj\Debug\media player.pdb

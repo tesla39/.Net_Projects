@@ -1,0 +1,15 @@
+D:\source\string_builder\bin\Debug\net7.0\string_builder.exe
+D:\source\string_builder\bin\Debug\net7.0\string_builder.deps.json
+D:\source\string_builder\bin\Debug\net7.0\string_builder.runtimeconfig.json
+D:\source\string_builder\bin\Debug\net7.0\string_builder.dll
+D:\source\string_builder\bin\Debug\net7.0\string_builder.pdb
+D:\source\string_builder\obj\Debug\net7.0\string_builder.vbproj.AssemblyReference.cache
+D:\source\string_builder\obj\Debug\net7.0\string_builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\string_builder\obj\Debug\net7.0\string_builder.AssemblyInfoInputs.cache
+D:\source\string_builder\obj\Debug\net7.0\string_builder.AssemblyInfo.vb
+D:\source\string_builder\obj\Debug\net7.0\string_builder.vbproj.CoreCompileInputs.cache
+D:\source\string_builder\obj\Debug\net7.0\string_builder.dll
+D:\source\string_builder\obj\Debug\net7.0\refint\string_builder.dll
+D:\source\string_builder\obj\Debug\net7.0\string_builder.pdb
+D:\source\string_builder\obj\Debug\net7.0\string_builder.genruntimeconfig.cache
+D:\source\string_builder\obj\Debug\net7.0\ref\string_builder.dll

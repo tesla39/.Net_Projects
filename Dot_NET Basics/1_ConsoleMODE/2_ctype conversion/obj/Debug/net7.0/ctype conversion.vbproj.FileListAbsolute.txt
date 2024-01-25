@@ -1,0 +1,15 @@
+D:\source\ctype conversion\bin\Debug\net7.0\ctype conversion.exe
+D:\source\ctype conversion\bin\Debug\net7.0\ctype conversion.deps.json
+D:\source\ctype conversion\bin\Debug\net7.0\ctype conversion.runtimeconfig.json
+D:\source\ctype conversion\bin\Debug\net7.0\ctype conversion.dll
+D:\source\ctype conversion\bin\Debug\net7.0\ctype conversion.pdb
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.vbproj.AssemblyReference.cache
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.AssemblyInfoInputs.cache
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.AssemblyInfo.vb
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.vbproj.CoreCompileInputs.cache
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.dll
+D:\source\ctype conversion\obj\Debug\net7.0\refint\ctype conversion.dll
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.pdb
+D:\source\ctype conversion\obj\Debug\net7.0\ctype conversion.genruntimeconfig.cache
+D:\source\ctype conversion\obj\Debug\net7.0\ref\ctype conversion.dll

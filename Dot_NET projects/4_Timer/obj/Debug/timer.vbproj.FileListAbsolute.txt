@@ -1,0 +1,13 @@
+D:\source\timer\obj\Debug\timer.vbproj.AssemblyReference.cache
+D:\source\timer\obj\Debug\timer.vbproj.SuggestedBindingRedirects.cache
+D:\source\timer\obj\Debug\timer.Form1.resources
+D:\source\timer\obj\Debug\timer.Resources.resources
+D:\source\timer\obj\Debug\timer.vbproj.GenerateResource.cache
+D:\source\timer\obj\Debug\timer.vbproj.CoreCompileInputs.cache
+D:\source\timer\bin\Debug\timer.exe.config
+D:\source\timer\bin\Debug\timer.exe
+D:\source\timer\bin\Debug\timer.pdb
+D:\source\timer\bin\Debug\timer.xml
+D:\source\timer\obj\Debug\timer.exe
+D:\source\timer\obj\Debug\timer.xml
+D:\source\timer\obj\Debug\timer.pdb

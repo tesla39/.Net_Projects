@@ -1,0 +1,17 @@
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\bin\Debug\net7.0-windows\assignment5  ( area of rectangle ).exe
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\bin\Debug\net7.0-windows\assignment5  ( area of rectangle ).deps.json
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\bin\Debug\net7.0-windows\assignment5  ( area of rectangle ).runtimeconfig.json
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\bin\Debug\net7.0-windows\assignment5  ( area of rectangle ).dll
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\bin\Debug\net7.0-windows\assignment5  ( area of rectangle ).pdb
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).vbproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5____area_of_rectangle__.Form1.resources
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).vbproj.GenerateResource.cache
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).AssemblyInfo.vb
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).vbproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).dll
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\refint\assignment5  ( area of rectangle ).dll
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).pdb
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\assignment5  ( area of rectangle ).genruntimeconfig.cache
+C:\Users\MAHESH\source\repos\assignment5  ( area of rectangle )\obj\Debug\net7.0-windows\ref\assignment5  ( area of rectangle ).dll
